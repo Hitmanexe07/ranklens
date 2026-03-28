@@ -133,7 +133,7 @@ export default function Terms() {
       <Section title="Contact">
         <p>
           For questions about these Terms of Use, contact us at{' '}
-          <a href="mailto:legal@ranklens.com" className="text-indigo-600 underline underline-offset-2">[YOUR EMAIL]</a>{' '}
+          <a href="mailto:legal@toolstestlab.com" className="text-indigo-600 underline underline-offset-2">[YOUR EMAIL]</a>{' '}
           or via our <Link to="/contact" className="text-indigo-600 underline underline-offset-2">contact form</Link>.
         </p>
       </Section>

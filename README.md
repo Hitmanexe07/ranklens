@@ -1,4 +1,4 @@
-# RankLens — SEO Affiliate Site
+# ToolsTestLab — SEO Affiliate Site
 
 A clean, modern, conversion-focused affiliate website for promoting SEO SaaS tools (Semrush). Built with React + Vite + Tailwind CSS.
 
@@ -52,7 +52,7 @@ All prices are approximate as of Q1 2026. Verify current prices at each provider
 - `src/pages/BestFor.jsx` — topTools array and comparison table
 
 ### Add your brand/logo
-Replace "RankLens" in:
+Replace "ToolsTestLab" in:
 - `src/components/Header.jsx`
 - `src/components/Footer.jsx`
 - `index.html` (title and meta description)

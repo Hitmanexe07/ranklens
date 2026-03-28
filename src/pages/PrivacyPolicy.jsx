@@ -112,7 +112,7 @@ export default function PrivacyPolicy() {
         </ul>
         <p>
           To exercise these rights, contact us at{' '}
-          <a href="mailto:privacy@ranklens.com">[YOUR EMAIL ADDRESS]</a>.
+          <a href="mailto:privacy@toolstestlab.com">[YOUR EMAIL ADDRESS]</a>.
           We will respond within 30 days.
         </p>
         <p>
@@ -154,7 +154,7 @@ export default function PrivacyPolicy() {
           If you have questions about this Privacy Policy or our data practices, please contact us:
         </p>
         <ul>
-          <li>Email: <a href="mailto:privacy@ranklens.com">[YOUR EMAIL ADDRESS]</a></li>
+          <li>Email: <a href="mailto:privacy@toolstestlab.com">[YOUR EMAIL ADDRESS]</a></li>
           <li>Website: <a href="/contact">Contact form</a></li>
         </ul>
       </Section>
